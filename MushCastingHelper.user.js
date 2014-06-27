@@ -23,5 +23,6 @@ $('#castingFeed > div.boxMargin.boxMaxWidth > div.twinstyle > div.bgtablesummar 
     tab[i] = pseudo;
     i++;
 });
+alert("test");
 var mail = '<a href="#" onclick="_tid.askDiscuss([' + tab + ']); return false;"><img src="http://data.twinoid.com/img/icons/mail.png" alt="">Envoyer message</a>';
 $('#castingFeed > div.boxMargin.boxMaxWidth > div.twinstyle > h3').text('Effectifs : ' + number + ' sur ' + max.text()).after(mail);
