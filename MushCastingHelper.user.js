@@ -2,7 +2,7 @@
 // @name        Mush Aide casting
 // @namespace   Mush Aide casting
 // @description Analyse du profil d'un joueur
-// @downloadURL https://raw.github.com/Khan-amil/MushCastingHelper/release/MushCastingHelper.user.js
+// @downloadURL https://github.com/Khan-amil/MushCastingHelper/raw/master/MushCastingHelper.user.js
 // @include     http://mush.vg/g/*/center
 // @include     http://mush.vg/g/*
 // @version     0.1
