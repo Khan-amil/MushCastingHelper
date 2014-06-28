@@ -5,7 +5,7 @@
 // @downloadURL https://raw.github.com/Khan-amil/MushCastingHelper/release/MushCastingHelper.user.js
 // @include     http://mush.vg/g/*/center
 // @include     http://mush.vg/g/*
-// @version     1.1
+// @version     1.1.1
 // ==/UserScript==
 
 
